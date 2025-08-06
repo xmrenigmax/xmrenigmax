@@ -145,7 +145,7 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
 </div>
 
 <div align="center">
-  <a href="https://github.com/xmerenigmax">
+  <a href="https://github.com/xmrenigmax">
     <picture>
       <source
         srcset="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=xmrenigmax&show_icons=true&theme=vue-dark&hide_border=true"
