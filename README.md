@@ -49,42 +49,98 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
 ---
 
 ### 📬 Connect With Me
-
 <a href="https://github.com/RileyJordan">
     <picture>
         <source
         srcset="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=vue-dark&hide_border=true"
         media="(prefers-color-scheme: dark)"
         />
-        <source
-        srcset="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=vue&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
         <img src="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=vue&hide_border=true"/>
     </picture>
 </a>
 
----
+## Projects
 
-### 💪 Gym Mentality in Dev Work
+<a href="https://github.com/xmrenigmax/AgileTaskManager">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"/>
+    </picture>
+</a>
 
-> “Consistency, discipline, and progressive overload — in the gym or in software, it's the same formula.”
+<a href="https://github.com/xmrenigmax/MyPortfolio">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"/>
+    </picture>
+</a>
 
----
+<a href="https://github.com/xmrenigmax/DataVisuals">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"/>
+    </picture>
+</a>
 
-### 🚧 Current Projects
+<a href="https://github.com/xmrenigmax/L4_Coursework_Programming">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"/>
+    </picture>
+</a>
 
-- 🧪 **The Human Verified Internet** — balancing identity + privacy
-- 🔧 Personal full-stack tools for productivity and data viz
-- 📈 Exploring OpenAI, LLMs, and automation in system design
+<a href="https://github.com/xmrenigmax/L4_MathsAssignmentRepo">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"/>
+    </picture>
+</a>
 
----
-
-### 📜 Certificates
-
-- ✅ Python (HackerRank) | SQL (HackerRank) | MATLAB (MathWorks)
-
----
-
-_“Write clean code. Lift heavy. Lead from the front.”_
-
+<a href="https://github.com/xmrenigmax/Hackerrank">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=jutils&theme=vue"/>
+    </picture>
+</a>
