@@ -122,13 +122,40 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
     </picture>
 </a>
 
-### 📬 Connect With Me
-<a href="https://github.com/RileyJordan">
+### My 3D Coding Activity
+
+[![3D GitHub Contribution Graph](https://github-contributions-stats.vercel.app/api/v1?username=xmrenigmax&theme=3d)](https://github.com/xmrenigmax)
+
+*Rotate and zoom with your mouse!*
+
+<div align="center">
+  <img src="https://github-readme-stats-git-master-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
+  <img src="https://github-readme-3d-globe.vercel.app/api?username=RileyJordan&theme=midnight-purple" width="400"/>
+</div>
+
+### Connect With Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmrenigmax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/mrrileyjordan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rileyjordan21@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gold-five-45.vercel.app/)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/xmerenigmax">
     <picture>
-        <source
-        srcset="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=vue-dark&hide_border=true"
+      <source
+        srcset="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=xmrenigmax&show_icons=true&theme=vue-dark&hide_border=true"
         media="(prefers-color-scheme: dark)"
-        />
-        <img src="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=vue&hide_border=true"/>
+      />
+      <img src="https://readme-stats-git-main-xmrenigmaxs-projects.vercel.app/api?username=xmrengimax&show_icons=true&theme=vue&hide_border=true"/>
     </picture>
-</a>
+  </a>
+</div>
+
+📧 **Email:** [Rileyjordan21@hotmail.com](mailto:Rileyjordan21@hotmail.com)  
+🔗 **LinkedIn:** [mrrileyjordan](https://uk.linkedin.com/in/mrrileyjordan)  
+🌐 **Portfolio:** [My Portfolio](https://my-portfolio-gold-five-45.vercel.app/)
