@@ -122,25 +122,23 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
     </picture>
 </a>
 
-### 🐍 My Coding Activity Snake 
+### 🌟 My Developer Dashboard
 
 <div align="center">
 
-<!-- Updated Snake URL (will work after first workflow run) -->
-![Contribution Snake](https://raw.githubusercontent.com/xmrenigmax/xmrenigmax/output/github-contribution-grid-snake.svg)
+<!-- Working Metrics Link (Embedded) -->
+[![Detailed GitHub Metrics](https://img.shields.io/badge/My_Full_Stats-%F0%9F%8E%AF-blue?style=for-the-badge&logo=github)](https://metrics.lecoq.io/insights?user=xmrenigmax)
 
-<!-- Streak Stats with Improved Loading -->
+<!-- Guaranteed Working Elements -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=xmrenigmax&theme=vue-dark&hide_border=true&background=0D1117&dates=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&fire=FF9B45&currStreakNum=FFFFFF" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=xmrenigmax&theme=vue-dark&hide_border=true&background=0D1117&dates=58A6FF&fire=FF9B45" height="180"/>
 </a>
 
-<!-- Faster Loading Metrics -->
-<a href="https://metrics.lecoq.io">
-  <img src="https://metrics.lecoq.io/xmrenigmax?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Europe%2FLondon" height="180"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=xmrenigmax&show_icons=true&theme=vue-dark&hide_border=true" height="180"/>
 </a>
 
-</div>
-
+![Alternative Snake](https://github-profile-snake.vercel.app/github-contribution.svg?user=xmrenigmax&theme=github-dark)
 </div>
 
 ### Connect With Me
