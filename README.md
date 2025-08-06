@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    My name is Riley & I'm a second year student studying _Software Engineering_ at [Bournemouth Univeristy](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. I've just finished my first year where i received official recognition from _Bournemouth Univeristy_ and the assessment board for my consistently high performance across a wide range of subjects in comparison to other univeristies across the UK :gb:. I achieved many things in my first year like achieving first place in the year, and writing a research paper on the human-verified internet.
+  <strong>Hi, I'm Riley</strong> — a second-year <em>Software Engineering</em> student at <a href="https://www.bournemouth.ac.uk/" target="_blank">Bournemouth University</a> 🎓 with a <strong>#1 rank</strong> in my year for group projects. Recognized by the university assessment board for my <em>exceptional academic performance</em> (top 5%) across the UK 🇬🇧, I’ve achieved <strong>80.2% first-class marks</strong> overall in my first year, authored an undergraduate research paper on <em>human-verified internet </em>, and earned assessment boards’s List honors for consistent excellence. Beyond academics, I’m actively developing full-stack projects with React/Node.js, competing in hackathons, and mentoring students — all while pursuing my passion for building <em>websites and engineering apps</em>. Let’s connect to discuss tech, research, or potential collaborations! 🔥
 </p>
 
 
