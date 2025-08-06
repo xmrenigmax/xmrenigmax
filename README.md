@@ -129,11 +129,6 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
 <!-- Working Metrics Link (Embedded) -->
 [![Detailed GitHub Metrics](https://img.shields.io/badge/My_Full_Stats-%F0%9F%8E%AF-blue?style=for-the-badge&logo=github)](https://metrics.lecoq.io/insights?user=xmrenigmax)
 
-<!-- Guaranteed Working Elements -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=xmrenigmax&theme=vue-dark&hide_border=true&background=0D1117&dates=58A6FF&fire=FF9B45" height="180"/>
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=xmrenigmax&show_icons=true&theme=vue-dark&hide_border=true" height="180"/>
 </a>
