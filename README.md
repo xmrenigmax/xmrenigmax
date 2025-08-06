@@ -38,87 +38,87 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
 
 ## Projects
 
-<a href="[https://github.com/xmrenigmax/AgileTaskManager">](https://github.com/xmrenigmax/AgileTaskManager">)
+<a href="https://github.com/xmrenigmax/AgileTaskManager">
     <picture>
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue-dark&hide_border=true"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue-dark&hide_border=true")
-        media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue")
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue"/>](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue"/>)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=AgileTaskManager&theme=vue"/>
     </picture>
 </a>
 
-<a href="[https://github.com/xmrenigmax/MyPortfolio">](https://github.com/xmrenigmax/MyPortfolio">)
+<a href="https://github.com/xmrenigmax/MyPortfolio">
     <picture>
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue-dark&hide_border=true"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue-dark&hide_border=true")
-        media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue")
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue"/>](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue"/>)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=MyPortfolio&theme=vue"/>
     </picture>
 </a>
 
-<a href="[https://github.com/xmrenigmax/DataVisuals">](https://github.com/xmrenigmax/DataVisuals">)
+<a href="https://github.com/xmrenigmax/DataVisuals">
     <picture>
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue-dark&hide_border=true"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue-dark&hide_border=true")
-        media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue")
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue"/>](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue"/>)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=DataVisuals&theme=vue"/>
     </picture>
 </a>
 
-<a href="[https://github.com/xmrenigmax/L4_Coursework_Programming">](https://github.com/xmrenigmax/L4_Coursework_Programming">)
+<a href="https://github.com/xmrenigmax/L4_Coursework_Programming">
     <picture>
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue-dark&hide_border=true"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue-dark&hide_border=true")
-        media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue")
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue"/>](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue"/>)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_Coursework_Programming&theme=vue"/>
     </picture>
 </a>
 
-<a href="[https://github.com/xmrenigmax/L4_MathsAssignmentRepo">](https://github.com/xmrenigmax/L4_MathsAssignmentRepo">)
+<a href="https://github.com/xmrenigmax/L4_MathsAssignmentRepo">
     <picture>
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue-dark&hide_border=true"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue-dark&hide_border=true")
-        media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue")
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue"/>](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue"/>)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=L4_MathsAssignmentRepo&theme=vue"/>
     </picture>
 </a>
 
-<a href="[https://github.com/xmrenigmax/Hackerrank">](https://github.com/xmrenigmax/Hackerrank">)
+<a href="https://github.com/xmrenigmax/Hackerrank">
     <picture>
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue-dark&hide_border=true"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue-dark&hide_border=true")
-        media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue"](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue")
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue"/>](https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue"/>)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmrenigmax&repo=Hackerrank&theme=vue"/>
     </picture>
 </a>
 
