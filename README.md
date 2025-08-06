@@ -122,15 +122,25 @@ My name is Riley & I'm a second year student studying _Software Engineering_ at 
     </picture>
 </a>
 
-### My 3D Coding Activity
-
-[![3D GitHub Contribution Graph](https://github-contributions-stats.vercel.app/api/v1?username=xmrenigmax&theme=3d)](https://github.com/xmrenigmax)
-
-*Rotate and zoom with your mouse!*
+### 🐍 My Coding Activity Snake 
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-xmrenigmaxs-projects.vercel.app/api?username=RileyJordan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-3d-globe.vercel.app/api?username=RileyJordan&theme=midnight-purple" width="400"/>
+
+<!-- Updated Snake URL (will work after first workflow run) -->
+![Contribution Snake](https://raw.githubusercontent.com/xmrenigmax/xmrenigmax/output/github-contribution-grid-snake.svg)
+
+<!-- Streak Stats with Improved Loading -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=xmrenigmax&theme=vue-dark&hide_border=true&background=0D1117&dates=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&fire=FF9B45&currStreakNum=FFFFFF" height="180"/>
+</a>
+
+<!-- Faster Loading Metrics -->
+<a href="https://metrics.lecoq.io">
+  <img src="https://metrics.lecoq.io/xmrenigmax?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Europe%2FLondon" height="180"/>
+</a>
+
+</div>
+
 </div>
 
 ### Connect With Me
