@@ -130,8 +130,6 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 ![Contribution Grid](https://github-readme-streak-stats.herokuapp.com/?user=xmrenigmax&theme=vue-dark&hide_border=true)
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
 </div>
 
 ## Professional Contact
