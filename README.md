@@ -46,7 +46,7 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&theme=dark" />
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,azure,vercel&theme=dark" />
 
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman&theme=dark" />
@@ -80,11 +80,13 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 |---------|-------------|--------------|---------|
 | **[Agile Task Manager](https://github.com/xmrenigmax/AgileTaskManager)** | SCRUM task management system with real-time collaboration | React, TypeScript, Node.js, PostgreSQL, Docker | Live |
 | **[Portfolio Website](https://github.com/xmrenigmax/MyPortfolio)** | Professional portfolio with interactive 3D backgrounds | React, Three.js, Tailwind CSS | Live |
+| **[Weather App](https://github.com/xmrenigmax/Weather_App)** | Real-time weather application with Azure integration | React, Azure, OpenWeather API, CSS | Live |
+| **[NPL Movie Genres](https://github.com/xmrenigmax/NPLMovieGenres)** | Movie genre classification using Natural Language Processing | Python, NPL, Full-Stack, Machine Learning | Completed |
 | **[ITF Taekwondo Guide](https://github.com/xmrenigmax)** | Client project for International Taekwon-Do Federation (private)| React, JavaScript, JSON API | In Progress |
 | **[Kola Lead Capture](https://github.com/xmrenigmax)** | Client lead management system with automated data import (private)| React, Node.js, SQL, API Integration | Completed |
 | **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Progress |
 
-### Development Tools, Scripts & revision
+### Development Tools, Scripts & Revision
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -119,6 +121,7 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 ![SQL Basic](https://img.shields.io/badge/SQL_Basic-HackerRank-32CD32?logo=hackerrank)
 ![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-32CD32?logo=mathworks)
 ![JPMorgan Engineering Work Experience](https://img.shields.io/badge/Software_Engineering-JPMorgan-32CD32?logo=jpmorgan)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Cloud_Services-0078D4?logo=microsoftazure)
 
 </div>
 
@@ -162,3 +165,5 @@ React         ██████░░░░   65.0%  [Frontend Framework]
 SQL           ███████░░░   72.5%  [Database Management]
 TypeScript    █████░░░░░   55.0%  [Type-Safe Development]
 Node.js       ████░░░░░░   45.0%  [Backend Development]
+Azure         ████░░░░░░   40.0%  [Cloud Services]
+NPL/AI        ████░░░░░░   42.5%  [Machine Learning]
