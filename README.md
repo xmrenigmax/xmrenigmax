@@ -74,17 +74,18 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 <div align="center">
 
-### Full-Stack Applications
+###  Full-Stack Applications
 
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|---------|
-| **[Agile Task Manager](https://github.com/xmrenigmax/AgileTaskManager)** | SCRUM task management system with real-time collaboration | React, TypeScript, Node.js, PostgreSQL, Docker | Live |
-| **[Portfolio Website](https://github.com/xmrenigmax/MyPortfolio)** | Professional portfolio with interactive 3D backgrounds | React, Three.js, Tailwind CSS | Live |
-| **[Weather App](https://github.com/xmrenigmax/Weather_App)** | Real-time weather application with Azure integration | React, Azure, OpenWeather API, CSS | Live |
-| **[NPL Movie Genres](https://github.com/xmrenigmax/NPLMovieGenres)** | Movie genre classification using Natural Language Processing | Python, NPL, Full-Stack, Machine Learning | Completed |
-| **[ITF Taekwondo Guide](https://github.com/xmrenigmax)** | Client project for International Taekwon-Do Federation (private)| React, JavaScript, JSON API | In Progress |
-| **[Kola Lead Capture](https://github.com/xmrenigmax)** | Client lead management system with automated data import (private)| React, Node.js, SQL, API Integration | Completed |
-| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Progress |
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|--------|
+| **[Agile Task Manager](https://github.com/xmrenigmax/AgileTaskManager)** | SCRUM task management system with real-time collaboration | React, TypeScript, Node.js, PostgreSQL, Docker | [**🌐 Live Demo**](https://agile-task-manager-client.vercel.app/home) • [📁 Code](https://github.com/xmrenigmax/AgileTaskManager) |
+| **[Portfolio Website](https://github.com/xmrenigmax/MyPortfolio)** | Professional portfolio with interactive 3D backgrounds | React, Three.js, Tailwind CSS | [**🌐 Live Site**](https://my-portfolio-gold-five-45.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/MyPortfolio) |
+| **[Weather App](https://github.com/xmrenigmax/Weather_App)** | Real-time weather application with Azure integration | React, Azure, OpenWeather API, CSS | [**🌐 Live Demo**](https://weather-app-amber-omega-61.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Weather_App) |
+| **[ITF Taekwondo Guide](https://github.com/xmrenigmax)** | Client project for International Taekwon-Do Federation | React, JavaScript, JSON API | [**🌐 Live Site**](https://itf-taekwondo-guide.vercel.app/) • *Private Repo* |
+| **[Kola Lead Capture](https://github.com/xmrenigmax)** | Client lead management system with automated data import | React, Node.js, SQL, API Integration | [**🌐 Live Demo**](https://kola-lead-capture-client.vercel.app/login) • *Private Repo* |
+| **[NLP Movie Genres](https://github.com/xmrenigmax/NLPMovieGenres)** | Movie genre classification using Natural Language Processing | Python, NLP, Machine Learning | [📁 Code](https://github.com/xmrenigmax/NLPMovieGenres) |
+| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Development |
+
 
 ### Development Tools, Scripts & Revision
 
@@ -144,7 +145,7 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 [![Email](https://img.shields.io/badge/Email-RileyJordan21@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RileyJordan21@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MrRileyJordan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/mrrileyjordan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gold-five-45.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-xmrenigmax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmrenigmax)
+[![Schedule Call](https://img.shields.io/badge/Schedule_Call-Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/xmrenigmax04/30min)
 
 ### Professional Services
 
@@ -152,18 +153,37 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 Available for freelance projects, technical collaborations, and innovative software development opportunities.
 
----
 
-<div align="center">
+<div align="left">
 
 ### Technology Proficiency
 
 ```text
-Python        ██████████   95.0%  [Primary Language]
-JavaScript    ████████░░   78.5%  [Full-Stack Development]
-React         ██████░░░░   65.0%  [Frontend Framework]
-SQL           ███████░░░   72.5%  [Database Management]
-TypeScript    █████░░░░░   55.0%  [Type-Safe Development]
-Node.js       ████░░░░░░   45.0%  [Backend Development]
-Azure         ████░░░░░░   40.0%  [Cloud Services]
-NPL/AI        ████░░░░░░   42.5%  [Machine Learning]
+Programming & Development
+Python        █████████▌    85%  [Primary Language, Algorithms]
+JavaScript    ████████▊     78%  [Full-Stack Development]
+TypeScript    ██████▌       65%  [Type-Safe Development]
+Java          █████▊        58%  [University Curriculum]
+C++           ████▍         45%  [Fundamentals]
+
+Web Technologies
+React         ███████▊      72%  [Frontend Framework]
+HTML/CSS      ███████▋      75%  [Web Fundamentals]
+Tailwind      ██████▌       65%  [CSS Framework]
+Node.js       █████▊        58%  [Backend Runtime]
+Next.js       ████▍         48%  [Full-Stack Framework]
+
+Databases & Cloud
+SQL           ███████▋      74%  [Database Management]
+PostgreSQL    ██████▌       68%  [Primary RDBMS]
+MongoDB       █████▊        60%  [NoSQL Experience]
+Azure         ████▍         45%  [Cloud Services]
+AWS           ███▊          40%  [Cloud Fundamentals]
+
+Tools & Other
+Git/GitHub    ███████▊      76%  [Version Control]
+Docker        █████▌        62%  [Containerization]
+Figma         █████▊        58%  [UI/UX Design]
+NLP/AI        ████▍         42%  [Machine Learning]
+```
+</div>
