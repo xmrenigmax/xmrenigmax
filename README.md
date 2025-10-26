@@ -84,7 +84,12 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 | **[ITF Taekwondo Guide](https://github.com/xmrenigmax)** | Client project for International Taekwon-Do Federation | React, JavaScript, JSON API | [**🌐 Live Site**](https://itf-taekwondo-guide.vercel.app/) • *Private Repo* |
 | **[Kola Lead Capture](https://github.com/xmrenigmax)** | Client lead management system with automated data import | React, Node.js, SQL, API Integration | [**🌐 Live Demo**](https://kola-lead-capture-client.vercel.app/login) • *Private Repo* |
 | **[NLP Movie Genres](https://github.com/xmrenigmax/NLPMovieGenres)** | Movie genre classification using Natural Language Processing | Python, NLP, Machine Learning | [📁 Code](https://github.com/xmrenigmax/NLPMovieGenres) |
-| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Development |
+| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Development | n/a |
+| **[Pokemon Builder](https://github.com/xmrenigmax/Pokemon-Team-Builder)** | Pokemon builder and simulator | React, Tailwind CSS, Next.js | In Development |[**🌐 Live Demo**](https://pokemon-team-builder-plum.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Pokemon-Team-Builder) |
+| **[Nasa Explorer]([https://github.com/xmrenigmax/])** | THree real-world exploration | React, Tailwind CSS, Next.js | In Development |[**🌐 Live Demo**](https://nasa-explorer-frontend-henna.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/) |
+
+
+
 
 
 ### Development Tools, Scripts & Revision
@@ -144,7 +149,7 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 [![Email](https://img.shields.io/badge/Email-RileyJordan21@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RileyJordan21@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MrRileyJordan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/mrrileyjordan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gold-five-45.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mrenigma.uk)
 [![Schedule Call](https://img.shields.io/badge/Schedule_Call-Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/xmrenigmax04/30min)
 
 ### Professional Services
