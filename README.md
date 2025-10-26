@@ -84,9 +84,9 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 | **[ITF Taekwondo Guide](https://github.com/xmrenigmax)** | Client project for International Taekwon-Do Federation | React, JavaScript, JSON API | [**🌐 Live Site**](https://itf-taekwondo-guide.vercel.app/) • *Private Repo* |
 | **[Kola Lead Capture](https://github.com/xmrenigmax)** | Client lead management system with automated data import | React, Node.js, SQL, API Integration | [**🌐 Live Demo**](https://kola-lead-capture-client.vercel.app/login) • *Private Repo* |
 | **[NLP Movie Genres](https://github.com/xmrenigmax/NLPMovieGenres)** | Movie genre classification using Natural Language Processing | Python, NLP, Machine Learning | [📁 Code](https://github.com/xmrenigmax/NLPMovieGenres) |
-| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Development | n/a |
-| **[Pokemon Builder](https://github.com/xmrenigmax/Pokemon-Team-Builder)** | Pokemon builder and simulator | React, Tailwind CSS, Next.js | In Development |[**🌐 Live Demo**](https://pokemon-team-builder-plum.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Pokemon-Team-Builder) |
-| **[Nasa Explorer]([https://github.com/xmrenigmax/])** | THree real-world exploration | React, Tailwind CSS, Next.js | In Development |[**🌐 Live Demo**](https://nasa-explorer-frontend-henna.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/) |
+| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Development|
+| **[Pokemon Builder](https://github.com/xmrenigmax/Pokemon-Team-Builder)** | Pokemon builder and simulator | React, Tailwind CSS, Next.js |[**🌐 Live Demo**](https://pokemon-team-builder-plum.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Pokemon-Team-Builder) |
+| **[Nasa Explorer]([https://github.com/xmrenigmax/])** | THree real-world exploration | React, Tailwind CSS, Next.js |[**🌐 Live Demo**](https://nasa-explorer-frontend-henna.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/) |
 
 
 
