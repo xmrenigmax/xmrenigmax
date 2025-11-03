@@ -11,7 +11,9 @@
 <div align="center">
 
 **Second-Year Software Engineering Student** at **Bournemouth University**  
-**First Class Honors** (80.2% Average) • **Top 5% Nationally** • **Competition Winner**  
+**First Class Honors** (80.2% Average) • **Top 5% Nationally** • **Competition Winner**
+**AWS DeepRacer Representative** and **Student Ambassador** at BU.
+
 Specializing in full-stack development, AI ethics, and innovative software solutions
 
 </div>
@@ -74,23 +76,20 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 <div align="center">
 
-###  Full-Stack Applications
+### Full-Stack Applications
 
 | Project | Description | Technologies | Links |
 |---------|-------------|--------------|--------|
 | **[Agile Task Manager](https://github.com/xmrenigmax/AgileTaskManager)** | SCRUM task management system with real-time collaboration | React, TypeScript, Node.js, PostgreSQL, Docker | [**🌐 Live Demo**](https://agile-task-manager-client.vercel.app/home) • [📁 Code](https://github.com/xmrenigmax/AgileTaskManager) |
+| **[Tech Job Analysis](https://github.com/xmrenigmax/Tech-Job-Analyser)** | Job analysis tool using Adzuna, Reed.com APIs, React, and Machine Learning | React, Next.js, Python, API, ML | [**🌐 Live Demo**](https://tech-job-analyser-mpkm.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Tech-Job-Analyser) |
+| **[MERN Saas Project](https://github.com/xmrenigmax/MERN-Saas-Project)** | Scalable SaaS application built using the MERN stack | React, Node.js, MongoDB, Tailwind CSS | [**🌐 Live Demo**](https://mern-saas-project-frontend.vercel.app/dashboard) • [📁 Code](https://github.com/xmrenigmax/MERN-Saas-Project) |
 | **[Portfolio Website](https://github.com/xmrenigmax/MyPortfolio)** | Professional portfolio with interactive 3D backgrounds | React, Three.js, Tailwind CSS | [**🌐 Live Site**](https://my-portfolio-gold-five-45.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/MyPortfolio) |
 | **[Weather App](https://github.com/xmrenigmax/Weather_App)** | Real-time weather application with Azure integration | React, Azure, OpenWeather API, CSS | [**🌐 Live Demo**](https://weather-app-amber-omega-61.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Weather_App) |
 | **[ITF Taekwondo Guide](https://github.com/xmrenigmax)** | Client project for International Taekwon-Do Federation | React, JavaScript, JSON API | [**🌐 Live Site**](https://itf-taekwondo-guide.vercel.app/) • *Private Repo* |
 | **[Kola Lead Capture](https://github.com/xmrenigmax)** | Client lead management system with automated data import | React, Node.js, SQL, API Integration | [**🌐 Live Demo**](https://kola-lead-capture-client.vercel.app/login) • *Private Repo* |
 | **[NLP Movie Genres](https://github.com/xmrenigmax/NLPMovieGenres)** | Movie genre classification using Natural Language Processing | Python, NLP, Machine Learning | [📁 Code](https://github.com/xmrenigmax/NLPMovieGenres) |
-| **[Dev Job Tracker](https://github.com/xmrenigmax)** | Job application management platform | React, Tailwind CSS, Node.js | In Development|
 | **[Pokemon Builder](https://github.com/xmrenigmax/Pokemon-Team-Builder)** | Pokemon builder and simulator | React, Tailwind CSS, Next.js |[**🌐 Live Demo**](https://pokemon-team-builder-plum.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/Pokemon-Team-Builder) |
-| **[Nasa Explorer]([https://github.com/xmrenigmax/])** | THree real-world exploration | React, Tailwind CSS, Next.js |[**🌐 Live Demo**](https://nasa-explorer-frontend-henna.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/) |
-
-
-
-
+| **[Nasa Explorer]([https://github.com/xmrenigmax/](https://nasa-explorer-frontend-henna.vercel.app/))** | Three real-world exploration | React, Tailwind CSS, Next.js |[**🌐 Live Demo**](https://nasa-explorer-frontend-henna.vercel.app/) • [📁 Code](https://github.com/xmrenigmax/) |
 
 ### Development Tools, Scripts & Revision
 
@@ -115,6 +114,8 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 | Achievement | Details | Recognition |
 |------------|---------|-------------|
+| **AWS DeepRacer Representative** | Represented Bournemouth University at the global AWS DeepRacer event | University Role |
+| **Student Ambassador** | Official representative for Bournemouth University at events and outreach | University Role |
 | **1st Place - Computing Business Week** | Led team of 8 developers to victory against 30+ competing teams | University Recognition |
 | **L4 Letter of Commendation** | Academic excellence across multiple modules | Assessment Board Honor |
 | **Top 5% Nationally** | Ranked among top performers in UK benchmarking | National Standard |
