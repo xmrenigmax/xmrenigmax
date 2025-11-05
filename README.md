@@ -42,10 +42,13 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs&theme=dark" />
 
 ### Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&theme=dark" />
+
+### Hardware & IoT
+<img src="https://skillicons.dev/icons?i=dotnet,raspberrypi,arduino,azureiot&theme=dark" />
 
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,azure,vercel&theme=dark" />
@@ -95,6 +98,7 @@ Specializing in full-stack development, AI ethics, and innovative software solut
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| **[Honeywell BuildingIQ](https://github.com/xmrenigmax/PicoEnivornmentMonitor)** | Professional Building Management System with IoT integration, HVAC control, and energy optimization | .NET 8, C#, IoT, Building Automation |
 | **[ReadMe Generator](https://github.com/xmrenigmax/ReadMeGenerator)** | CLI tool for automated GitHub README creation | Python, Node.js, CLI |
 | **[HackerRank Solutions](https://github.com/xmrenigmax/Hackerrank)** | Algorithm and data structure practice solutions | Python, JavaScript, Java |
 
